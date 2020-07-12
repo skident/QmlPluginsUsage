@@ -1,0 +1,4 @@
+module com.gits.time
+GitsTimer 1.0 qml/GitsTimer.qml
+GitsDeadlineTimer 1.0 qml/GitsDeadlineTimer.qml
+plugin TimePlugin

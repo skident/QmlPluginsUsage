@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../qml/GitsDeadlineTimer.qml</file>
+        <file>../qml/GitsTimer.qml</file>
+    </qresource>
+    <qresource prefix="/.."/>
+</RCC>
